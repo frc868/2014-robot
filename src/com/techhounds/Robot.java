@@ -43,7 +43,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * directory.
  */
 public class Robot extends IterativeRobot {
-
+	//hi vincent
     public static boolean finalRobot;
     private static CheesyVisionServer serverInstance;
     
