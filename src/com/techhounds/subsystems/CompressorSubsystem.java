@@ -13,6 +13,9 @@ import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 /**
+ * Subsystem which allows you to start/stop the compressor motor and determine
+ * whether the system is fully pressurized.
+ * 
  * @author Atif Niyaz
  */
 public class CompressorSubsystem extends Subsystem {
